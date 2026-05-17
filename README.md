@@ -10,28 +10,11 @@ Currently, I’m developing hands-on skills in virtualized environments, system 
 
 ## 🚀 Featured team projects
 
-### 🛡️ PentestAgent
-Team project focused on building and testing an AI-based agent designed for automated pentest and CTF-style tasks.
+Check out my pinned repositories below to see projects related to:
 
-**Tech stack:** Python, LangGraph, Docker, PostgreSQL, Langfuse, Linux
-
----
-
-### ☁️ Monitoring and Alerting — Google Cloud with Terraform
-Team project created as part of **Project Level Up – Advanced ICT Skills Academy for Women**.
-
-Terraform-based monitoring and alerting infrastructure for a multi-VM environment in Google Cloud, including Compute Engine, Cloud Monitoring, uptime checks, alert policies, IAM and KMS-encrypted disks.
-
-**Tech stack:** Terraform, Google Cloud Platform, Compute Engine, Cloud Monitoring, Cloud Logging, Ops Agent, IAM, KMS, Nginx, Linux
-
----
-
-### 🏥 MedicalApp / YourMed
-Team project created as part of a university course assignment.
-
-Medical reminder application for patients who forget to take medicines, vitamins or supplements regularly. The system allows patients and doctors to manage medications, dosage schedules and e-mail reminders.
-
-**Tech stack:** Java, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, PostgreSQL/Neon.tech, JavaMail API, JUnit, Mockito, GitHub Actions, Figma
+- AI-based pentest and CTF task automation
+- Google Cloud monitoring and alerting with Terraform
+- medical reminder application with CI/CD pipeline
 
 ---
 
@@ -50,5 +33,7 @@ Medical reminder application for patients who forget to take medicines, vitamins
 
 ---
 
+## 📫 Contact
 
-You can find me here on GitHub
+You can find me on LinkedIn:  
+[linkedin.com/in/natalia-kielar](https://www.linkedin.com/in/natalia-kielar)
