@@ -6,41 +6,30 @@ I like working on projects that combine security, automation and infrastructure 
 
 Currently, I’m developing hands-on skills in virtualized environments, system analysis, digital forensics and cloud infrastructure through technical courses, labs and team projects.
 
-Outside of tech, running and swimming help me stay focused, disciplined and balanced.
-
 ---
 
 ## 🚀 Featured team projects
 
 ### 🛡️ PentestAgent
-
 Team project focused on building and testing an AI-based agent designed for automated pentest and CTF-style tasks.
-
-The project focuses on task execution, tool usage, audit logging and report generation. It was created to test how an AI agent can solve gradually more complex security scenarios in a controlled environment.
 
 **Tech stack:** Python, LangGraph, Docker, PostgreSQL, Langfuse, Linux
 
 ---
 
 ### ☁️ Monitoring and Alerting — Google Cloud with Terraform
-
 Team project created as part of **Project Level Up – Advanced ICT Skills Academy for Women**.
 
-The goal of this project was to build a monitoring and alerting system for a multi-VM environment in Google Cloud. The infrastructure includes Compute Engine instances, VPC, firewall rules, IAM, KMS-encrypted disks, Ops Agent, Cloud Monitoring dashboards, uptime checks and alert policies for CPU, RAM, disk usage and VM availability.
+Terraform-based monitoring and alerting infrastructure for a multi-VM environment in Google Cloud, including Compute Engine, Cloud Monitoring, uptime checks, alert policies, IAM and KMS-encrypted disks.
 
 **Tech stack:** Terraform, Google Cloud Platform, Compute Engine, Cloud Monitoring, Cloud Logging, Ops Agent, IAM, KMS, Nginx, Linux
 
 ---
 
 ### 🏥 MedicalApp / YourMed
-
 Team project created as part of a university course assignment.
 
-Medical reminder application designed for patients who forget to take medicines, vitamins or supplements regularly.
-
-The system allows patients and doctors to manage medications, dosage schedules and e-mail reminders. Patients can add their own medicines, track whether a dose was taken and deactivate reminders, while doctors can create medication reminders for patients that cannot be edited by the patient.
-
-The application includes user registration, login, medication status tracking, e-mail notifications and planned support for searching cheaper medication substitutes through an external API.
+Medical reminder application for patients who forget to take medicines, vitamins or supplements regularly. The system allows patients and doctors to manage medications, dosage schedules and e-mail reminders.
 
 **Tech stack:** Java, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, PostgreSQL/Neon.tech, JavaMail API, JUnit, Mockito, GitHub Actions, Figma
 
