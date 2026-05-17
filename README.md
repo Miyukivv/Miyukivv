@@ -50,14 +50,5 @@ Medical reminder application for patients who forget to take medicines, vitamins
 
 ---
 
-## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miyukivv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyukivv&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-You can find me here on GitHub.
+You can find me here on GitHub
